@@ -1,4 +1,4 @@
-ProyectoFinalEquipo10 Webscraper de páginas de libreías.
+ProyectoFinalEquipo10 Webscraper de páginas de librerías.
 
 Instrucciones para el ejecutar el código:
 
